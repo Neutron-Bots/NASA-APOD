@@ -1,0 +1,4 @@
+tweepy==4.10.1
+aiohttp==3.8.1
+python-dotenv
+schedule
